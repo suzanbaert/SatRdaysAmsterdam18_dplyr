@@ -1,4 +1,12 @@
-# SatRdays Amsterdam 2018:Getting more out of dplyr
+# SatRdays Amsterdam 2018: 
 
-Placeholder for my talk material on dplyr.
+<img src="https://raw.githubusercontent.com/suzanbaert/SatRdaysAmsterdam18_dplyr/master/images/coverslide.png" width="600">
+
+
+<br><hr>
+<br>
+
+Placeholder for my talk material on dplyr.  
+All material will be uploaded by sunday evening latest!
+
 
