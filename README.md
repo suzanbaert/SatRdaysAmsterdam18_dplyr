@@ -6,7 +6,7 @@
 <br><hr>
 <br>
 
-Placeholder for my talk material on dplyr.
-All material will be uploaded by tomorrow evening latest!
+Placeholder for my talk material on dplyr.  
+All material will be uploaded by sunday evening latest!
 
 
